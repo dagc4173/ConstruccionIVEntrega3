@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\dagc4\\Desktop\\TdeA-2023-2\\SoftwareIV\\Entregable3\\Entregable3.csproj": {}
+    "C:\\Users\\dagc4\\Desktop\\TdeA-2023-2\\SoftwareIV\\Entregable3\\ApiCrud\\ApiCrud.csproj": {}
   },
   "projects": {
-    "C:\\Users\\dagc4\\Desktop\\TdeA-2023-2\\SoftwareIV\\Entregable3\\Entregable3.csproj": {
+    "C:\\Users\\dagc4\\Desktop\\TdeA-2023-2\\SoftwareIV\\Entregable3\\ApiCrud\\ApiCrud.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dagc4\\Desktop\\TdeA-2023-2\\SoftwareIV\\Entregable3\\Entregable3.csproj",
-        "projectName": "Entregable3",
-        "projectPath": "C:\\Users\\dagc4\\Desktop\\TdeA-2023-2\\SoftwareIV\\Entregable3\\Entregable3.csproj",
+        "projectUniqueName": "C:\\Users\\dagc4\\Desktop\\TdeA-2023-2\\SoftwareIV\\Entregable3\\ApiCrud\\ApiCrud.csproj",
+        "projectName": "ApiCrud",
+        "projectPath": "C:\\Users\\dagc4\\Desktop\\TdeA-2023-2\\SoftwareIV\\Entregable3\\ApiCrud\\ApiCrud.csproj",
         "packagesPath": "C:\\Users\\dagc4\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dagc4\\Desktop\\TdeA-2023-2\\SoftwareIV\\Entregable3\\obj\\",
+        "outputPath": "C:\\Users\\dagc4\\Desktop\\TdeA-2023-2\\SoftwareIV\\Entregable3\\ApiCrud\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\dagc4\\AppData\\Roaming\\NuGet\\NuGet.Config"
