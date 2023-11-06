@@ -18,7 +18,7 @@ namespace ApiCrud
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddControllers();
-            
+            // Aquí podrías agregar otros servicios necesarios para tu aplicación.
         }
 
         public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
